@@ -1,2 +1,0 @@
-# raj
-simple devops assesment 
